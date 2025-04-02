@@ -1,6 +1,8 @@
 # tic-tac-toe
 tic-tac-toe 게임을 구현
 
+![Image](https://github.com/user-attachments/assets/016273b0-725a-4fbe-8086-79d2a539eaca)
+
 ## 목적
 state 활용 공부 목적
 
